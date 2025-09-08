@@ -1,5 +1,11 @@
 # Groundwater Data Fetcher CLI (Backend Prototype)
 
+### Application Demo
+
+<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/main/demo.mp4" width="800" controls>
+  Your browser does not support the video tag.
+</video>
+
 ## Project Overview
 
 This project is a backend prototype for fetching and visualizing groundwater level data from the official India-WRIS (Water Resources Information System of India) public API. It is built as a command-line interface (CLI) tool using Python, allowing users to specify a location and date range to generate a time-series plot of the water levels.
