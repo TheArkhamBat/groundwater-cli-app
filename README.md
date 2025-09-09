@@ -1,5 +1,16 @@
 # Groundwater Data Fetcher CLI (Backend Prototype)
 
+## 👥 Team Details
+
+| Name            | Role                   |
+|-----------------|------------------------|
+| Yugh Juneja     | Team Leader – AI/ML    |
+| Aditya Raj      | Backend                |
+| Rishaub Kumar   | Backend                |
+| Palak Narang    | Presentation           |
+| Nancy Sharma    | Frontend               |
+| Rohit Deka      | Frontend               |
+
 ### Working Prototype Demo (Frontend + Backend)
 
 <video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/refs/heads/main/prototype_demo.mp4" width = "800" controls>
