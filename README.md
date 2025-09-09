@@ -18,6 +18,8 @@
     Your browser does not support the video tag.
 </video>
 
+### Demo Video : https://drive.google.com/file/d/1vQBwRFu9rRaDdjgtucFipbJQWe3Wpq1C/view?usp=sharing
+
 The working prototype can be found here : (https://github.com/OoONANCY/AquaMonitor).
 
 ### CLI Application Demo
@@ -25,6 +27,8 @@ The working prototype can be found here : (https://github.com/OoONANCY/AquaMonit
 <video controls src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/main/demo.mp4" style="max-width: 100%;">
     Your browser does not support the video tag.
 </video>
+
+### Demo Video: https://drive.google.com/file/d/11CRSrbW2eqzbhIHw6gRsfNDaHetHZ9St/view?usp=sharing
 
 ## Project Overview
 
