@@ -13,7 +13,7 @@
 
 ### Working Prototype Demo (Frontend + Backend)
 
-<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/refs/heads/main/prototype_demo.mp4" width = "800" controls>
+<video controls src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/main/prototype_demo.mp4" style="max-width: 100%;">
     Your browser does not support the video tag.
 </video>
 
@@ -21,7 +21,7 @@ The working prototype can be found here : (https://github.com/OoONANCY/AquaMonit
 
 ### CLI Application Demo
 
-<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/refs/heads/main/demo.mp4?download=" width="800" controls>
+<video controls src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/main/demo.mp4" style="max-width: 100%;">
     Your browser does not support the video tag.
 </video>
 
