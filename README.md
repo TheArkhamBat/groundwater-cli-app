@@ -16,7 +16,7 @@ The working prototype can be found here : (https://github.com/OoONANCY/AquaMonit
 
 ## Project Overview
 
-This project is a backend prototype for fetching and visualizing groundwater level data from the official India-WRIS (Water Resources Information System of India) public API. It is built as a command-line interface (CLI) tool using Python, allowing users to specify a location and date range to generate a time-series plot of the water levels.
+Fetches data from India-WRIS API to create and use json data for anaylsis and prediction of groundwater level in all districts of India. This project is a backend prototype for fetching and visualizing groundwater level data from the official India-WRIS (Water Resources Information System of India) public API. It is built as a command-line interface (CLI) tool using Python, allowing users to specify a location and date range to generate a time-series plot of the water levels.
 
 ## Features
 
