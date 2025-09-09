@@ -1,9 +1,17 @@
 # Groundwater Data Fetcher CLI (Backend Prototype)
 
-### Application Demo
+### Working Prototype Demo (Frontend + Backend)
 
-<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/main/demo.mp4" width="800" controls>
-  Your browser does not support the video tag.
+<video src="" width = "800" controls>
+    Your browser does not support the video tag.
+</video>
+
+The working prototype can be found here : (https://github.com/OoONANCY/AquaMonitor).
+
+### CLI Application Demo
+
+<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/refs/heads/main/demo.mp4?download=" width="800" controls>
+    Your browser does not support the video tag.
 </video>
 
 ## Project Overview
