@@ -2,7 +2,7 @@
 
 ### Working Prototype Demo (Frontend + Backend)
 
-<video src="" width = "800" controls>
+<video src="https://github.com/TheArkhamBat/groundwater-cli-app/raw/refs/heads/main/prototype_demo.mp4" width = "800" controls>
     Your browser does not support the video tag.
 </video>
 
