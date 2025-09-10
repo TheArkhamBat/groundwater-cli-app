@@ -1,6 +1,6 @@
 # Groundwater Data Fetcher CLI (Backend Prototype)
 
-## 👥 Team Details
+## Team Details
 
 | Name            | Role                   |
 |-----------------|------------------------|
