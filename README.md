@@ -42,6 +42,28 @@ Fetches data from India-WRIS API to create and use json data for anaylsis and pr
 * **Data Processing:** Parses the JSON response from the API and loads it into a `pandas` DataFrame for manipulation and analysis.
 * **Data Visualization:** Generates and displays a time-series line graph of the groundwater levels using `matplotlib` and `seaborn`.
 
+### ML MODEL TRAINED ON DATASET FOR PREDICTING FUTURE GROUNDWATER LEVELS
+
+Data Collection & Integration: Real-time inputs from over 50,000 records and 5,000+ DWLR stations were integrated with rainfall APIs to create a comprehensive dataset.
+
+Target Variable: The model's objective is to predict the 'housing_median_age'.
+
+Dataset Size: The final processed dataset contains 50,042 samples with 959 features.
+
+Data Splitting: The dataset was split into a training set (45,037 samples) and a test set (5,005 samples) to evaluate model performance.
+
+Model Training: A total of eight regression models were trained, including Linear, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting, XGBoost, and SVM.
+
+Best Initial Model: XGBoost emerged as the best initial model with an R² score of 0.5959.
+
+Hyperparameter Tuning: The XGBoost model was further optimized through hyperparameter tuning, resulting in a slight performance improvement.
+
+Final Model Performance: The final, tuned XGBoost model achieved an R² score of 0.5965, a Root Mean Squared Error (RMSE) of 5.05, and a Mean Absolute Error (MAE) of 2.45
+
+![Groundwater Model Results](assets/model_results.png)
+
+![WhatsApp Image of Project Demo](assets/WhatsApp%20Image%202025-09-10%20at%2010.28.02%20AM.jpeg)
+
 ## How to Use
 
 This tool is designed to be run from the command line within a Python virtual environment.
